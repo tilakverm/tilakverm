@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tilakverm
+- 👋 Hi, I’m @tilakverma
 - 👀 I’m interested in coding,machine learning etc.
 - 🌱 I’m currently learning B.tech CSE(AI)
 - 💞️ I’m looking to collaborate on ...
